@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TheisTheisRemmers2/1.0.0": {
+        "runtime": {
+          "TheisTheisRemmers2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheisTheisRemmers2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
