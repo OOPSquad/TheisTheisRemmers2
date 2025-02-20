@@ -12,3 +12,4 @@ c:\Users\maxim\OneDrive\Documents\GitHub\TheisTheisRemmers2\TheisTheisRemmers2\o
 c:\Users\maxim\OneDrive\Documents\GitHub\TheisTheisRemmers2\TheisTheisRemmers2\obj\Debug\net9.0\TheisTheisRemmers2.pdb
 c:\Users\maxim\OneDrive\Documents\GitHub\TheisTheisRemmers2\TheisTheisRemmers2\obj\Debug\net9.0\TheisTheisRemmers2.genruntimeconfig.cache
 c:\Users\maxim\OneDrive\Documents\GitHub\TheisTheisRemmers2\TheisTheisRemmers2\obj\Debug\net9.0\ref\TheisTheisRemmers2.dll
+c:\Users\maxim\OneDrive\Documents\GitHub\TheisTheisRemmers2\TheisTheisRemmers2\obj\Debug\net9.0\TheisTheisRemmers2.sourcelink.json
