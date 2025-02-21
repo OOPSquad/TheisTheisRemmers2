@@ -20,7 +20,8 @@ public class Role : IView
     *** METHOD Role                                                   ***
     *********************************************************************
     *** DESCRIPTION : Constructor for Role class                      ***
-    *** INPUT ARGS : string Name, Race Race, Weapon Weapon, short Health, short Protection ***
+    *** INPUT ARGS : string Name, Race Race, Weapon Weapon,           ***
+    *** short Health, short Protection                                ***
     *** OUTPUT ARGS : None                                            ***
     *** IN/OUT ARGS : None                                            ***
     *** RETURN : None                                                 ***
