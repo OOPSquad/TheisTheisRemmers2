@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sawye\\Documents\\GitHub\\TheisTheisRemmers2\\TheisTheisRemmers2\\TheisTheisRemmers2.csproj": {}
+    "C:\\Users\\Sawyer\\OneDrive\\Documents\\GitHub\\TheisTheisRemmers2\\TheisTheisRemmers2\\TheisTheisRemmers2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sawye\\Documents\\GitHub\\TheisTheisRemmers2\\TheisTheisRemmers2\\TheisTheisRemmers2.csproj": {
+    "C:\\Users\\Sawyer\\OneDrive\\Documents\\GitHub\\TheisTheisRemmers2\\TheisTheisRemmers2\\TheisTheisRemmers2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sawye\\Documents\\GitHub\\TheisTheisRemmers2\\TheisTheisRemmers2\\TheisTheisRemmers2.csproj",
+        "projectUniqueName": "C:\\Users\\Sawyer\\OneDrive\\Documents\\GitHub\\TheisTheisRemmers2\\TheisTheisRemmers2\\TheisTheisRemmers2.csproj",
         "projectName": "TheisTheisRemmers2",
-        "projectPath": "C:\\Users\\sawye\\Documents\\GitHub\\TheisTheisRemmers2\\TheisTheisRemmers2\\TheisTheisRemmers2.csproj",
-        "packagesPath": "C:\\Users\\sawye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sawye\\Documents\\GitHub\\TheisTheisRemmers2\\TheisTheisRemmers2\\obj\\",
+        "projectPath": "C:\\Users\\Sawyer\\OneDrive\\Documents\\GitHub\\TheisTheisRemmers2\\TheisTheisRemmers2\\TheisTheisRemmers2.csproj",
+        "packagesPath": "C:\\Users\\Sawyer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sawyer\\OneDrive\\Documents\\GitHub\\TheisTheisRemmers2\\TheisTheisRemmers2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\sawye\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sawyer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

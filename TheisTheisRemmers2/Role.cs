@@ -53,11 +53,11 @@ public class Role : IView
         Protection = role.Protection;
     }
 
-    string Name;
-    Race Race;
-    Weapon Weapon;
-    short Health;
-    short Protection;
+    public string Name { get; set; }
+    public Race Race { get; set; }
+    public Weapon Weapon { get; set; }
+    public short Health { get; set; }
+    public short Protection { get; set; }
 
     /********************************************************************
     *** METHOD ViewH                                                  ***
