@@ -26,7 +26,7 @@ public class Role : IView
     *** IN/OUT ARGS : None                                            ***
     *** RETURN : None                                                 ***
     ********************************************************************/
-    public Role(string Name = "Geralt", Race Race = Race.Witcher, Weapon Weapon = Weapon.Axe, short Health = 200, short Protection = 50)
+    public Role(string Name = "Geralt", Race Race = Race.WITCHER, Weapon Weapon = Weapon.AXE, short Health = 200, short Protection = 50)
     {
         this.Name = Name;
         this.Race = Race;
