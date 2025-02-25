@@ -16,16 +16,16 @@ public static class Global
 {
     public enum Race
     {
-        Dragon,
-        Witcher,
-        Vampire
+        DRAGON,
+        WITCHER,
+        VAMPIRE
     }
 
     public enum Weapon
     {
-        Axe,
-        Mace,
-        Spell,
-        Sword
+        AXE,
+        MACE,
+        SPELL,
+        SWORD
     }
 }
