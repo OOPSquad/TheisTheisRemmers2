@@ -26,13 +26,13 @@ public class Role : IView
     *** IN/OUT ARGS : None                                            ***
     *** RETURN : None                                                 ***
     ********************************************************************/
-    public Role(string Name = "Geralt", Race Race = Race.Witcher, Weapon Weapon = Weapon.Axe, short Health = 200, short Protection = 50)
+    public Role(string Name = "Geralt", Race Race = Race.Witcher, short Health = 200, short Protection = 50, Weapon Weapon = Weapon.Axe)
     {
         this.Name = Name;
         this.Race = Race;
-        this.Weapon = Weapon;
         this.Health = Health;
         this.Protection = Protection;
+        this.Weapon = Weapon;
     }
 
     /********************************************************************
@@ -48,16 +48,17 @@ public class Role : IView
     {
         Name = role.Name;
         Race = role.Race;
-        Weapon = role.Weapon;
         Health = role.Health;
         Protection = role.Protection;
+        Weapon = role.Weapon;
     }
 
     public string Name { get; set; }
     public Race Race { get; set; }
-    public Weapon Weapon { get; set; }
     public short Health { get; set; }
     public short Protection { get; set; }
+    public Weapon Weapon { get; set; }
+
 
     /********************************************************************
     *** METHOD ViewH                                                  ***
