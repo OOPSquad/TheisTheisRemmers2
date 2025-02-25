@@ -25,7 +25,7 @@ public static class Global
     {
         AXE,
         MACE,
-        SPELL,
-        SWORD
+        SWORD,
+        SPELL
     }
 }
